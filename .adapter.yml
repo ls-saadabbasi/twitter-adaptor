@@ -1,7 +1,7 @@
 name: twitter-adaptor
 description: testing twitter
 
-node_identifier: MAL
+node_identifier: taexample
 
 platforms:
   - Docker
