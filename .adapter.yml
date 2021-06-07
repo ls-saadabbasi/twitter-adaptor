@@ -1,0 +1,15 @@
+name: twitter-adaptor
+description: testing twitter
+
+node_identifier: MAL
+
+platforms:
+  - Docker
+
+data_sources:
+  - name: min-api.cryptocompare
+    url: https://min-api.cryptocompare.com/data/price
+
+parameters:
+  - from
+  - to
